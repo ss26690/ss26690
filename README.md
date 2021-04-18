@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ss26690
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Saurav Sagar.
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning swift for iOS and kotline for Android.
+- 📫 If any one want to contact me:
+-               You can mail me on sagarsaurav1997@gmail.com or call me on +91 7678146979.
 
 <!---
 ss26690/ss26690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
