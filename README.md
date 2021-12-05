@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav Sagar.
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning swift for iOS and kotline for Android.
+- 🌱 I’m working on swift for iOS and Flutter for cross platform.
 - 📫 If any one want to contact me:
 -               You can mail me on sagarsaurav1997@gmail.com or call me on +91 7678146979.
 
