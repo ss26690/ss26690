@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saurav Sagar 👋</h1>
 
 <h3 align="center">
-Senior Mobile Engineer with 6+ years of experience building scalable iOS and Flutter applications.
+Senior Mobile Engineer with 5+ years of experience building scalable iOS and Flutter applications.
 </h3>
 
 <p align="center">
