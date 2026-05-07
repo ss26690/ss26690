@@ -75,12 +75,18 @@ Scalable stock tracking application with live market data and clean architecture
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ss26690&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss26690&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img 
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=ss26690&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <img 
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ss26690&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
 </p>
 
 ---
