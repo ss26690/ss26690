@@ -13,7 +13,7 @@ Senior Mobile Engineer with 5+ years of experience building scalable iOS and Flu
 # 🚀 About Me
 
 - 📱 Senior Mobile Application Engineer
-- 💼 6+ years of experience in iOS & Flutter development
+- 💼 5+ years of experience in iOS & Flutter development
 - 🏢 Worked on scalable enterprise and consumer-facing applications
 - ⚡ Focused on performance optimization, clean architecture, and modern mobile UI
 - 🧠 Currently exploring scalable app systems, AI-powered apps, and advanced mobile architecture
@@ -100,7 +100,7 @@ Scalable stock tracking application with live market data and clean architecture
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sagarsaurav1997@example.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
